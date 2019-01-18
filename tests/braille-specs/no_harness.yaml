@@ -314,7 +314,8 @@ tests:
   - [DEN BESTE BURSDAGEN jeg har hatt var da jeg fylte åtte., ⠠⠠⠠⠙⠑⠝ ⠃⠑⠎⠞⠑ ⠃⠥⠗⠎⠙⠁⠛⠑⠝⠠ ⠚⠑⠛ ⠓⠁⠗ ⠓⠁⠞⠞ ⠧⠁⠗ ⠙⠁ ⠚⠑⠛ ⠋⠽⠇⠞⠑ ⠡⠞⠞⠑⠄]
   # Headlines
   - [EN ROSE MED TORNER, ⠠⠠⠠⠑⠝ ⠗⠕⠎⠑ ⠍⠑⠙ ⠞⠕⠗⠝⠑⠗⠠]
-  - [EN ROSE! MED 15 TORNER., ⠠⠠⠠⠑⠝⠀⠗⠕⠎⠑⠖⠀⠍⠑⠙⠀⠼⠁⠑⠀⠞⠕⠗⠝⠑⠗⠄⠠]
+  - [EN ROSE! MED 15 TORNER., ⠠⠠⠠⠑⠝⠀⠗⠕⠎⠑⠖⠀⠍⠑⠙⠀⠼⠁⠑⠀⠞⠕⠗⠝⠑⠗⠠⠠]
+  - [EN ROSE! MED 15 TORNER?, ⠠⠠⠠⠑⠝⠀⠗⠕⠎⠑⠖⠀⠍⠑⠙⠀⠼⠁⠑⠀⠞⠕⠗⠝⠑⠗⠠⠢]
   - [SAK 27/07 SØKNAD OM ØKONOMISK STØTTE FOR 2007, ⠠⠠⠠⠎⠁⠅ ⠼⠃⠛⠌⠼⠚⠛ ⠎⠪⠅⠝⠁⠙ ⠕⠍ ⠪⠅⠕⠝⠕⠍⠊⠎⠅ ⠎⠞⠪⠞⠞⠑ ⠋⠕⠗ ⠼⠃⠚⠚⠛⠠]
   # Numeric characters
   - ['1', ⠼⠁]
